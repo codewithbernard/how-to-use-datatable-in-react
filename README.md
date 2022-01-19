@@ -1,4 +1,4 @@
-# Testing React Context - Ultimate Guide
+# How to Use DataTable in React
 
 ![alt text](https://github.com/codewithbernard/how-to-use-datatable-in-react/blob/master/datatable-with-react.png)
 
