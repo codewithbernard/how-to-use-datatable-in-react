@@ -16,7 +16,14 @@ const Table = () => {
   useEffect(() => {
     new DataTable(tableRef.current, {
       data: dataSet,
-      columns: [{ title: "Name" }],
+      columns: [
+        { title: "Name" },
+        { title: "Occupation" },
+        { title: "City" },
+        { title: "ZIP" },
+        { title: "Birthday" },
+        { title: "Salary" },
+      ],
     });
   }, []);
 
